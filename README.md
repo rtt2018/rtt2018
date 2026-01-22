@@ -1,7 +1,7 @@
 <h2>
   Hello! Welcome to my GitHub! 
-<img src="./assets/logo-light.svg#gh-light-mode-only" width="24"/>
-<img src="./assets/logo-dark.svg#gh-dark-mode-only" width="24"/>
+<img src="./assets/github-logo-light.svg#gh-light-mode-only" width="24"/>
+<img src="./assets/github-logo-dark.svg#gh-dark-mode-only" width="24"/>
 </h2>
 
 ## Technologies
