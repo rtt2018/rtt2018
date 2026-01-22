@@ -1,4 +1,4 @@
-<h2>
+<h1>
   Hello! Welcome to my GitHub!
   <img
     src="https://raw.githubusercontent.com/rtt2018/rtt2018/main/assets/github-logo-light.svg#gh-light-mode-only"
@@ -8,7 +8,7 @@
     src="https://raw.githubusercontent.com/rtt2018/rtt2018/main/assets/github-logo-dark.svg#gh-dark-mode-only"
     width="28"
   />
-</h2>
+</h1>
 
 ## About me
 <h3>
