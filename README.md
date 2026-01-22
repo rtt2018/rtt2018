@@ -43,9 +43,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg"  width="48"/>
 </p>
 
-### 
-[![Taras Rogiv profile views](https://u8views.com/api/v1/github/profiles/37593048/views/day-week-month-total-count.svg)](https://u8views.com/github/rtt2018)
+## Languages
 
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+## Statistics
+
+[![Taras Rogiv profile views](https://u8views.com/api/v1/github/profiles/37593048/views/day-week-month-total-count.svg)](https://u8views.com/github/rtt2018)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtt2018&show_icons=true&theme=tokyonight)
 
