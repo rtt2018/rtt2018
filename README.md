@@ -16,12 +16,12 @@
 </h3>
 
 ## My projects 
-<h4>
-  <strong>Fast Css Selector</strong>
+[Fast Css Selector](https://marketplace.visualstudio.com/items?itemName=rtarast.fast-css-selector) - an extension that allows you to quickly create CSS selectors and React components
   
+  ![Installs](https://img.shields.io/visual-studio-marketplace/i/rtarast.fast-css-selector)
+    
   ![Installs](https://img.shields.io/visual-studio-marketplace/i/rtarast.fast-css-selector?label=Downloads)
 
-</h4>
 
 ## Technologies
 
