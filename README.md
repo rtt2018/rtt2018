@@ -15,6 +15,13 @@
   I code for fun, and I also have interesting ideas that I implement and that bring benefits. I am gradually mastering new technologies and acquiring new skills, so my repository will be replenished with something interesting. Come back again!
 </h3>
 
+## My projects 
+<h4>
+  <strong>Fast Css Selector</strong>
+  ![Installs](https://img.shields.io/visual-studio-marketplace/i/rtarast.fast-css-selector)
+
+</h4>
+
 ## Technologies
 
 <p>
