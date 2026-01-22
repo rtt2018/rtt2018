@@ -10,6 +10,11 @@
   />
 </h2>
 
+## About me
+<h3>
+  I code for fun, and I also have interesting ideas that I implement and that bring benefits. I am gradually mastering new technologies and acquiring new skills, so my repository will be replenished with something interesting. Come back again!
+</h3>
+
 ## Technologies
 
 <p>
