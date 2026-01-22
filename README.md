@@ -1,7 +1,14 @@
 <h2>
-Hello! Welcome to my   
-<img src="https://raw.githubusercontent.com/rtt2018/rtt2018/main/assets/github-logo-light.svg#gh-light-mode-only"/>
-<img src="https://raw.githubusercontent.com/rtt2018/rtt2018/main/assets/github-logo-dark.svg#gh-dark-mode-only"/>
+  Hello! Welcome to my
+  <img
+    src="https://raw.githubusercontent.com/rtt2018/rtt2018/main/assets/github-logo-light.svg#gh-light-mode-only"
+    width="72"
+  />
+  <img
+    src="https://raw.githubusercontent.com/rtt2018/rtt2018/main/assets/github-logo-dark.svg#gh-dark-mode-only"
+    width="72"
+  />
+  !
 </h2>
 
 ## Technologies
