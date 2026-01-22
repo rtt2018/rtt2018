@@ -18,6 +18,7 @@
 ## My projects 
 <h4>
   <strong>Fast Css Selector</strong>
+  
   ![Installs](https://img.shields.io/visual-studio-marketplace/i/rtarast.fast-css-selector)
 
 </h4>
