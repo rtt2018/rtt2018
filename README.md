@@ -47,7 +47,8 @@
 [![Taras Rogiv profile views](https://u8views.com/api/v1/github/profiles/37593048/views/day-week-month-total-count.svg)](https://u8views.com/github/rtt2018)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtt2018)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtt2018&show_icons=true&theme=tokyonight)
+
 <!--
 **rtt2018/rtt2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
