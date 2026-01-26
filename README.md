@@ -12,7 +12,7 @@
 
 ## About me
 <h3>
-  I code for fun, and I also have interesting ideas that I implement and that bring benefits. I am gradually mastering new technologies and acquiring new skills, so my repository will be replenished with something interesting. Come back again!
+  I code for fun, and I also have interesting ideas that I implement and benefit from. I have experience in development in HTML, CSS, TypeScript, React, Node+Express, development of Android applications on Java, browser extensions. Also, I gradually master new technologies and acquire new skills, so my repository will be replenished with something interesting. Come back again!
 </h3>
 
 ## My projects 
@@ -56,7 +56,7 @@ HTML | CSS | JS | React | Node | Java | SQL
 
 ## How to reach me
 
-[linkedIn](https://www.linkedin.com/in/taras-rogiv) | [Gmail](mailto:r.taras.t.1@gmail.com) | [Telegram](https://t.me/RTarasT)
+[LinkedIn](https://www.linkedin.com/in/taras-rogiv) | [Gmail](mailto:r.taras.t.1@gmail.com) | [Telegram](https://t.me/RTarasT)
 
 ## Statistics
 
