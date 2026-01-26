@@ -56,7 +56,7 @@ HTML | CSS | JS | React | Node | Java | SQL
 
 ## How to reach me
 
-[LinkedIn](https://www.linkedin.com/in/taras-rogiv) | [Gmail](mailto:r.taras.t.1@gmail.com) | [Telegram](https://t.me/RTarasT)
+[LinkedIn](https://www.linkedin.com/in/taras-rogiv) | [Gmail](mailto:r.taras.t.1@gmail.com) | [Telegram](https://t.me/RTarasT) | [Resume](https://drive.google.com/file/d/12M3MS9QdVfAFP9PYblICgTck_jq4bEmp/view?usp=drive_link)
 
 ## Statistics
 
