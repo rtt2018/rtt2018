@@ -16,12 +16,15 @@
 </h3>
 
 ## My projects 
-[Fast Css Selector](https://marketplace.visualstudio.com/items?itemName=rtarast.fast-css-selector) - an extension that allows you to quickly create CSS selectors and React components
-  
-  ![Installs](https://img.shields.io/visual-studio-marketplace/i/rtarast.fast-css-selector)
-    
-  ![Installs](https://img.shields.io/visual-studio-marketplace/i/rtarast.fast-css-selector?label=Downloads)
+[Fast Css Selector](https://marketplace.visualstudio.com/items?itemName=rtarast.fast-css-selector) - an extension that allows you to quickly create CSS selectors and React components. 
+     
+![Installs](https://img.shields.io/visual-studio-marketplace/i/rtarast.fast-css-selector?label=Downloads)
 
+## Featured projects
+
+[Plane Merge: Idle Merging Game – Build, Merge, and Rule the Skies!](https://rtt2018.github.io/stp-8895/) - Website for the game Plan Merge. The site is designed with a responsive version with two breakpoints, adaptive graphics for Retina displays. Some libraries were used in the site layout, and custom scripts were implemented for visual effects and user interaction. The data-attributes were used to optimize the scripts.
+
+[Tasteorama](https://project-recipes-front.vercel.app/) - A site for posting recipes with the ability to save selected recipes, share recipes with others, filter recipes by categories and ingredients of the dish. The front of the site is written in React, the back is written in Node + Express + MongoDB
 
 ## Technologies
 
