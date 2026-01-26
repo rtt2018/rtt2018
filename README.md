@@ -52,6 +52,10 @@
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
+## How to reach me
+
+[linkedIn](https://www.linkedin.com/in/taras-rogiv) | [Gmail](mailto:r.taras.t.1@gmail.com) | [Telegram](https://t.me/RTarasT)
+
 ## Statistics
 
 [![Taras Rogiv profile views](https://u8views.com/api/v1/github/profiles/37593048/views/day-week-month-total-count.svg)](https://u8views.com/github/rtt2018)
