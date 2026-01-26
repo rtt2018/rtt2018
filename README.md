@@ -26,7 +26,9 @@
 
 [Tasteorama](https://project-recipes-front.vercel.app/) - A site for posting recipes with the ability to save selected recipes, share recipes with others, filter recipes by categories and ingredients of the dish. The front of the site is written in React, the back is written in Node + Express + MongoDB
 
-## Technologies
+## Tech Stack
+
+HTML | CSS | JS | React | Node | Java | SQL
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
