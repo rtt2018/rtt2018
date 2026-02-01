@@ -62,7 +62,7 @@ HTML | CSS | JS | React | Node | Java | SQL
 
 [![Taras Rogiv profile views](https://u8views.com/api/v1/github/profiles/37593048/views/day-week-month-total-count.svg)](https://u8views.com/github/rtt2018)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtt2018&show_icons=true&theme=tokyonight)
+![rtt2018 GitHub stats](https://github-readme-stats.zcy.dev/api?username=rtt2018&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=rtt2018&layout=compact)
 
