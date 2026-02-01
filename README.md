@@ -64,7 +64,7 @@ HTML | CSS | JS | React | Node | Java | SQL
 
 ![rtt2018 GitHub stats](https://github-readme-stats.zcy.dev/api?username=rtt2018&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=rtt2018&layout=compact)
+![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=rtt2018&layout=compact)
 
 <!--
 **rtt2018/rtt2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
