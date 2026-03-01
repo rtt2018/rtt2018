@@ -15,7 +15,7 @@
   I code for fun, and I also have interesting ideas that I implement and benefit from. I have experience in development in HTML, CSS, TypeScript, React, Node+Express, development of Android applications on Java, browser extensions. Also, I gradually master new technologies and acquire new skills, so my repository will be replenished with something interesting. Come back again!
 </h3>
 
-## My projects 
+## Commercial experiance
 [Fast Css Selector](https://marketplace.visualstudio.com/items?itemName=rtarast.fast-css-selector) - an extension that allows you to quickly create CSS selectors and React components. 
      
 ![Installs](https://img.shields.io/visual-studio-marketplace/i/rtarast.fast-css-selector?label=Installs)
